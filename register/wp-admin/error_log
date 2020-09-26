@@ -1,0 +1,1 @@
+[28-Jan-2020 07:36:46 UTC] PHP Warning:  Declaration of MonsterInsights_Skin::feedback($string) should be compatible with WP_Upgrader_Skin::feedback($string, ...$args) in /home1/nafeessh/public_html/naturephotohikes/register/wp-content/plugins/google-analytics-for-wordpress/includes/admin/licensing/skin.php on line 115
